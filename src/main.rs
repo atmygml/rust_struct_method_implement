@@ -9,6 +9,7 @@ impl Rectangle {
         self.width * self.height
     }
 }
+
 fn main() {
     let rect1 = Rectangle {
         width: 30,
