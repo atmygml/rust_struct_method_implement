@@ -1,0 +1,1 @@
+# rust_struct_method_implement
